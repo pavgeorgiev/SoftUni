@@ -6,7 +6,7 @@ namespace E01._Hello_SoftUni
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello SoftUni");
         }
     }
 }
